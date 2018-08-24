@@ -8,7 +8,7 @@ The baseline is next:
 * Classification of sequence of N frames using LSTM and CNN classifiers
 
 ### Files description:
-* **code/main.py** - main code to detect the number of speakers in a audio
+* **code/main.py** - main code to detect the number of speakers in an audio file
 * **code/prepare_training_data.ipynb** - vizualisations and data preprocessing, dataset preparation
 * **code/train_model_LSTM.ipynb** - trains LSTM classifier
 * **code/train_model_CNN.ipynb** - trains CNN classifier
